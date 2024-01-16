@@ -36,15 +36,15 @@ Android application that contains a list of Rick and Morty series characters, ch
 ├── data                    
 │   ├── local               
 │   │   ├── entity          
-│   │   ├── room            
+│   │   └── room            
 │   ├── remote              
 │   │   ├── network         
-│   │   ├── response        
+│   │   └── response        
 ├── di                      
 ├── ui                      
 │   ├── activities          
 │   ├── adapter             
-│   ├── viewmodels          
+│   └── viewmodels          
 └── ...
 ```
 
