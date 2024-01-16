@@ -30,7 +30,7 @@ Android application that contains a list of Rick and Morty series characters, ch
 * `data`
 * `di`
 * `ui`
-```bash
+```
 ...
 ├── ...
 ├── data                    
