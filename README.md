@@ -49,4 +49,4 @@ Android application that contains a list of Rick and Morty series characters, ch
 ```
 
 ## <a name="apk-link"></a> APK Link :
-[APK Link (Google Drive)](https://drive.google.com/file/d/10X5UOFvaXmDJVkwIlVS7E1L4-1oRprEv/view?usp=sharing)
+[APK Link (Google Drive)](https://drive.google.com/drive/folders/1Ol2yc-TvM21t5VRpytBMFy3sm1_t_Fap?usp=sharing)
